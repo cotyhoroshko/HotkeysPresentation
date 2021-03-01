@@ -3,7 +3,6 @@ import win32api
 import win32con
 import win32gui
 
-
 from pch import hotkeys
 from vsc import vsc_hotkeys
 
